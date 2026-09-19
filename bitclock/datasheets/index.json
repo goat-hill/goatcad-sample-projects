@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "datasheets": [
+    {
+      "mpn": "19-213/Y2C-CQ2R2L/3T(CY)",
+      "file": "19-213_Y2C-CQ2R2L_3T_CY_.pdf",
+      "source": "user",
+      "url": "https://evelta.com/content/datasheets/012-19-213-Y2C-CQ2R2L-3T-CY.pdf",
+      "fetchedAt": 1789773721041,
+      "bytes": 133789,
+      "sha256": "68ce19e03e211ae4797044808b05bc10c6bf0e6e9a5d076276e5d3289fdd2226"
+    },
+    {
+      "mpn": "1N5819HW-7-F",
+      "file": "1N5819HW-7-F.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://www.diodes.com/assets/Datasheets/1N5819HW.pdf",
+      "fetchedAt": 1789773386887,
+      "bytes": 282780,
+      "sha256": "5d395ffed99cf08fcc81d619f0456378b06ce958a6e2990bdc783ccfeb429f0c"
+    },
+    {
+      "mpn": "AO3400A",
+      "file": "AO3400A.pdf",
+      "source": "user",
+      "url": "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf",
+      "fetchedAt": 1789773471846,
+      "bytes": 317848,
+      "sha256": "9c60d0b6c1ddc7609a4b788a91181468d8ffe6c3e9ba425c3d8ffc5ba88c5033"
+    },
+    {
+      "mpn": "ECT818001568",
+      "file": "ECT818001568.pdf",
+      "source": "user",
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/58ae06ec35596d7640d451e3b5d0f7ae.pdf",
+      "fetchedAt": 1789773526261,
+      "bytes": 105972,
+      "sha256": "0247a6fc7387b82fc9e6fbdde76e815d9ad46a7518c5b942c7434fe11aa9b605"
+    },
+    {
+      "mpn": "ESP32-S3-WROOM-1-N8",
+      "file": "ESP32-S3-WROOM-1-N8.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf",
+      "fetchedAt": 1789773366164,
+      "bytes": 1280501,
+      "sha256": "27d71971da07c280c6068d08c74720d1a25b8f20cf8494dc1765bdd28d40d435"
+    },
+    {
+      "mpn": "FH34SRJ-24S-0.5SH(99)",
+      "file": "FH34SRJ-24S-0.5SH_99_.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://www.hirose.com/en/product/document?clcode=CL0580-1253-0-99&productname=FH34SRJ-12S-0.5SH(99)&series=FH34SRJ&documenttype=SpecSheet&lang=en&documentid=0000414526",
+      "fetchedAt": 1789773508591,
+      "bytes": 138596,
+      "sha256": "8b6ece6f01c44bbb6398ab27be572899a6d4e515745124df52f77da2c491e866"
+    },
+    {
+      "mpn": "KT-0603R",
+      "file": "KT-0603R.pdf",
+      "source": "user",
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/011ec3e8cb1e825f6961d29bc4db4c7a.pdf",
+      "fetchedAt": 1789773721012,
+      "bytes": 610865,
+      "sha256": "a3bac1cc9c59cb306ad03512945cce12c87bb54252abc223b796e1d20d41d4a1"
+    },
+    {
+      "mpn": "LESD5D5.0CT1G",
+      "file": "LESD5D5.0CT1G.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://www.gk-goodwork.com/static/upload/file/20260818/1787045372923640.pdf",
+      "fetchedAt": 1789773389696,
+      "bytes": 3949697,
+      "sha256": "de0d77a6795c31ae17650e0489b3bc423715f7b016c5d0729be405a0866b002e"
+    },
+    {
+      "mpn": "SCD40-D-R2",
+      "file": "SCD40-D-R2.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://sensirion.com/media/documents/48C4B7FB/67FE0194/CD_DS_SCD4x_Datasheet_D1.pdf",
+      "fetchedAt": 1789773367346,
+      "bytes": 1302393,
+      "sha256": "9bbb142d27ba1b92f6701d88a3994c99b1b6a79f2036d022076f74cadc1a3f86"
+    },
+    {
+      "mpn": "SGP41-D-R4",
+      "file": "SGP41-D-R4.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf",
+      "fetchedAt": 1789773369579,
+      "bytes": 1067257,
+      "sha256": "331f35ed1f027a74ec79b302763f7adb920759bc055b3d2ada17822bb0005bec"
+    },
+    {
+      "mpn": "SHT40-AD1B-R2",
+      "file": "SHT40-AD1B-R2.pdf",
+      "source": "distributor",
+      "distributor": "DigiKey",
+      "url": "https://sensirion.com/media/documents/33FD6951/6A7C10A0/HT_DS_Datasheet_SHT4x_V7.3.pdf",
+      "fetchedAt": 1789773371113,
+      "bytes": 1049911,
+      "sha256": "8db4a43f17149b76811cfb504caaeca4ef844ddc710cb9b45905c51c7ddfe3c2"
+    },
+    {
+      "mpn": "SPH3010H100MT",
+      "file": "SPH3010H100MT.pdf",
+      "source": "user",
+      "url": "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755192680433225728-C279861.pdf",
+      "fetchedAt": 1789773720556,
+      "bytes": 2965050,
+      "sha256": "3c9f7ffbf8b261fe585bf8d20030c664819b1bf8556bfb8746b90ad8ee1fa164"
+    },
+    {
+      "mpn": "TLV76733DRVT",
+      "file": "TLV76733DRVT.pdf",
+      "source": "user",
+      "url": "https://www.ti.com/lit/ds/symlink/tlv767.pdf",
+      "fetchedAt": 1789773428453,
+      "bytes": 4697531,
+      "sha256": "aed3fd87aee66ba59ead65e93b73f25b3d8d13aa7642ed591730a7cf8daa2f58"
+    },
+    {
+      "mpn": "TS-1187A-B-A-B",
+      "file": "TS-1187A-B-A-B.pdf",
+      "source": "user",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_XKB-Connectivity-TS-1187A-B-A-B_C318884.pdf",
+      "fetchedAt": 1789773471815,
+      "bytes": 805305,
+      "sha256": "64b75233cadaceb75ab3f3e33b532af8d04de98821c910ea13eb76c5fd1eed34"
+    },
+    {
+      "mpn": "TYPE-C 16PLC-H10.0",
+      "file": "TYPE-C_16PLC-H10.0.pdf",
+      "source": "user",
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/db97efaf5a2fadc39da99ed34a93d8f2.pdf",
+      "fetchedAt": 1789773527490,
+      "bytes": 3550860,
+      "sha256": "b7b227d049caf80a81fa624edfe82cc50a6de9aa69d75747453c503a0b8f4802"
+    },
+    {
+      "mpn": "TYPE-C16PIN",
+      "file": "TYPE-C16PIN.pdf",
+      "source": "user",
+      "url": "https://datasheet.lcsc.com/datasheet/pdf/f886749313cb521b2d277b2ec9b06308.pdf",
+      "fetchedAt": 1789773526769,
+      "bytes": 727394,
+      "sha256": "5cc6b14f300e1a2df12239804e46340a3a9c07169bcfd225ee0c977ff33fac14"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Datasheets are fetched, not committed -- see THIRD-PARTY.md
+bitclock/datasheets/*.pdf
+
+# KiCad local state and lock files
+*.kicad_prl
+*.lck
+*.history/
+fp-info-cache
+*-backups/

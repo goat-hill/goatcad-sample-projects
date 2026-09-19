@@ -1,0 +1,75 @@
+{
+ "version": 1,
+ "models": [
+  {
+   "file": "FH34SRJ-24S-0.5SH_99_.step",
+   "source": "manufacturer",
+   "url": "https://www.hirose.com/product/p/CL0580-1255-6-99",
+   "host": "www.hirose.com",
+   "mpn": "FH34SRJ-24S-0.5SH(99)",
+   "fetchedAt": 1789681730323,
+   "bytes": 781881,
+   "sha256": "43f1f334cb1b7fc635408b88c830fe9ceb58b6e5979c60288750dcd20ce7cb9b"
+  },
+  {
+   "file": "FPC-SMD_ECT818001568.step",
+   "source": "distributor",
+   "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/9783fbfc731c4de487b4cd24a5374cd0",
+   "host": "modules.easyeda.com",
+   "mpn": "C711417",
+   "fetchedAt": 1789681732610,
+   "bytes": 3793840,
+   "sha256": "c52916d3643fe14866343efae9ba0beebf6b55e0c561bd31f021edaf3e59190f"
+  },
+  {
+   "file": "Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.step",
+   "source": "manufacturer",
+   "url": "https://sensirion.com/media/documents/260AFF2D/616531AE/Sensirion_CO2_Sensors_SCD4x_STEP_file.step",
+   "host": "sensirion.com",
+   "mpn": "SCD40-D-R2",
+   "fetchedAt": 1789681544927,
+   "bytes": 647318,
+   "sha256": "663a718de8c4609c4d17738aa1e295ddff0a2b80012d22c4d647fa7e41399df6"
+  },
+  {
+   "file": "Sensirion_SGP40_DFN_2.44x2.44mm.step",
+   "source": "manufacturer",
+   "url": "https://sensirion.com/media/documents/1B38BCCF/61644FE8/Sensirion_Gas_Sensors_Software_GAS_CD_SGP40_STEP_File.step",
+   "host": "sensirion.com",
+   "mpn": "SGP41-D-R4",
+   "fetchedAt": 1789681675607,
+   "bytes": 1343737,
+   "sha256": "e7a04bd3171810eb089319a47ac2702e167bdba1cff8521f8a6d53a533e7b0d7"
+  },
+  {
+   "file": "SW_Push_1P1T_XKB_TS-1187A.step",
+   "source": "manufacturer",
+   "url": "https://www.helloxkb.com/public/images/zip/TS-1187A-B-A-B.zip",
+   "host": "www.helloxkb.com",
+   "mpn": "TS-1187A-B-A-B",
+   "fetchedAt": 1789681676097,
+   "bytes": 876029,
+   "sha256": "dbf207c04fdedb9dfee97ef4ae53e6efce86cbec7c228219265ee51460683abd"
+  },
+  {
+   "file": "TYPE-C-TH_16PLC-H10.0.step",
+   "source": "distributor",
+   "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/38b3c9d170164529b6980414f1c5dbe9",
+   "host": "modules.easyeda.com",
+   "mpn": "C3151747",
+   "fetchedAt": 1789681731822,
+   "bytes": 2234044,
+   "sha256": "d61912fc8454d3fce8aaad6da8ae7ab603d91e7b09468785ab0cab89167c00e7"
+  },
+  {
+   "file": "USB-C-SMD_TYPE-C16PIN.step",
+   "source": "distributor",
+   "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/99e30ad731ee487a8d60b7518cb54538",
+   "host": "modules.easyeda.com",
+   "mpn": "C393939",
+   "fetchedAt": 1789681730719,
+   "bytes": 3046242,
+   "sha256": "bbc2fffa2da5a089c0b081bc4628d274a0cbd3ac6f2fd7a6f36199c09c954f45"
+  }
+ ]
+}
